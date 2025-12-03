@@ -1,7 +1,11 @@
 # Excel---Sales-Analysis-Dashboard
 This Excel project Analyzed sales by Cleaning data, Calculating Metrics, and Visualizing Performance using Pivot Tables,Slicers,and finally a Interactive dynamic Excel Dashboard.
 
+## Image 1
+![Image One](image.png)
 
+## Dashboard Preview
+![Excel Dashboard]()
 
 
 
